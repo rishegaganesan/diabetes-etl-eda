@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+venv/
+
+# Output directories
+out/
+plots/
+splits/
+
+# IDE / OS files
+.DS_Store
+.idea/
+.vscode/
+
+# Environment files
+.env
