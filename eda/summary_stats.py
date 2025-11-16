@@ -1,4 +1,5 @@
 import pandas as pd
+import os
 NUMERIC_COLS = ["age","bmi","HbA1c_level","blood_glucose_level"]
 
 def summary_stats(df: pd.DataFrame, out_path: str):
