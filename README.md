@@ -84,11 +84,6 @@ Any other values are quarantined as invalid.
 
 smoking_history ∈ {current, ever, former, not current}
 
-## Run the project
-
-```bash
-
----
 
 ## ⚙️ Running the Project
 
@@ -96,9 +91,7 @@ smoking_history ∈ {current, ever, former, not current}
 ```bash
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
-
 ```
-
 ### Place your dataset
 
 Place your raw CSV inside the data/ folder:
