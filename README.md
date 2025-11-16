@@ -31,7 +31,7 @@ diabetes-etl-eda/
 │   ├── visualizations.py
 │   └── multicollinearity.py
 │
-├── main.py                         # orchestrates full pipeline
+├── analysis.py                         # orchestrates full pipeline
 ├── requirements.txt
 └── README.md
 
@@ -109,7 +109,7 @@ data/diabetes_prediction_dataset.csv
 ### Run the pipeline
 
 ```bash
-python main.py
+python analysis.py
 ```
 
 ### Check outputs
