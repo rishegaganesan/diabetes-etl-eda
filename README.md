@@ -16,7 +16,7 @@ This repository implements:
 diabetes-etl-eda/
 │
 ├── data/
-│   └── diabetes.csv                # raw input data
+│   └── diabetes_prediction_dataset.csv                # raw input data
 │
 ├── etl/                            # data engineering modules
 │   ├── schema_validation.py
